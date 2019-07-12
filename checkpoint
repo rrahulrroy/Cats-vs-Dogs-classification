@@ -1,0 +1,2 @@
+model_checkpoint_path: "D:\\Projects\\CatsVDogs\\dogsvscats-0.001-6conv-basic.model"
+all_model_checkpoint_paths: "D:\\Projects\\CatsVDogs\\dogsvscats-0.001-6conv-basic.model"
